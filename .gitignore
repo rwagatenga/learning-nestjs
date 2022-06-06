@@ -2,9 +2,6 @@
 /dist
 /node_modules
 
-# DB url
-./src/config
-
 # Logs
 logs
 *.log
