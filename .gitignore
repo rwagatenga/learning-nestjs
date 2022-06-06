@@ -2,8 +2,6 @@
 /dist
 /node_modules
 
-# DB url
-/src/config/databaseUrl.ts
 # Logs
 logs
 *.log
