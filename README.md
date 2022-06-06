@@ -31,6 +31,14 @@
 ```bash
 $ npm install
 ```
+<br/>
+Add mongoDB url in `src/config/databaseUrl.ts` <br/>
+```bash 
+  export default {
+    mongoUrl:
+      'mongodb+srv://<username>:<password>@nodejs.cs7gj.mongodb.net/?retryWrites=true&w=majority',
+  };
+```
 
 ## Running the app
 
