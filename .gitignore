@@ -4,6 +4,7 @@
 
 # DB url
 /src/config/databaseUrl.ts
+
 # Logs
 logs
 *.log
