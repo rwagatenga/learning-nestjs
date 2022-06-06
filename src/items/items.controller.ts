@@ -8,6 +8,8 @@ import {
   Body,
 } from '@nestjs/common';
 import { CreateItemDto } from './dto/create-item.dto';
+import { ItemsService } from './items.service';
+import { Item } from './interfaces/item'
 
 @Controller('items')
 export class ItemsController {
